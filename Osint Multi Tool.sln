@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osint Multi Tool", "IP Multi Tool\Osint Multi Tool.csproj", "{2AFA7C6A-B85B-4784-9097-C60154A6F3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AFA7C6A-B85B-4784-9097-C60154A6F3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFA7C6A-B85B-4784-9097-C60154A6F3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFA7C6A-B85B-4784-9097-C60154A6F3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFA7C6A-B85B-4784-9097-C60154A6F3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C220BC-25CE-47F8-9FBE-639E7CC763DB}
+	EndGlobalSection
+EndGlobal
