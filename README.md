@@ -13,7 +13,7 @@
 
 🌊If Numverify API is limit, That I have to do?🌊
 
-1 = Go to https://numverify.com/ ✔️
+1 - Go to https://numverify.com/ ✔️
 2 - Sign Up and Register ✔️
 3 - Copy Key or Save the key ✔️
 4 - Go to Source and Numverify.cs ✔️
@@ -27,3 +27,6 @@
 ![imagen](https://user-images.githubusercontent.com/96802942/202162793-184a29f8-36d8-4884-8cc0-607ca6095adf.png)
 
 
+Discord RPC 
+
+![imagen](https://user-images.githubusercontent.com/96802942/202166076-a26f6b63-d154-4e07-b6f3-8262cbe25276.png)
